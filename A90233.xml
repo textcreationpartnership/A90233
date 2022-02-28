@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Overton's defyance of the Act of pardon: or, The copy of a letter to the citizens usually meeting at the Whale-Bone in Lothbury behinde the Royal Exchange; and others commonly (though unjustly) styled Levellers· Written by Richard Overton close prisoner in the Tower of London.</title>
+            <author>Overton, Richard, fl. 1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90233</idno>
+            <idno type="STC">Wing O627</idno>
+            <idno type="STC">Thomason E562_26</idno>
+            <idno type="STC">ESTC R204569</idno>
+            <idno type="EEBO-CITATION">99864044</idno>
+            <idno type="PROQUEST">99864044</idno>
+            <idno type="VID">165245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165245)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Overton's defyance of the Act of pardon: or, The copy of a letter to the citizens usually meeting at the Whale-Bone in Lothbury behinde the Royal Exchange; and others commonly (though unjustly) styled Levellers· Written by Richard Overton close prisoner in the Tower of London.</title>
+                  <author>Overton, Richard, fl. 1646.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>"Levellers" in the title is followed by a raised period.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165245:1" rendition="simple:additions"/>
+            <p>Overton's DEFYANCE OF THE ACT of PARDON: OR, The Copy of a Letter to the Citizens uſually meeting at the WHALE-BONE in <hi>Lothbury</hi> behinde the Royal Exchange; And others commonly (though unjuſtly) STYLED LEVELLERS.</p>
+            <p>Written by <hi>Richard Overton</hi> Cloſe priſoner in the Tower of LONDON.</p>
+            <q>
+               <bibl>MATTH. 16. 24, 25.</bibl>
+               <p>Then ſaid Jeſus unto his Diſciples, If any man will come after me, let him deny himſelf, and take up his croſſe and follow me.</p>
+               <p>For whoſoever will ſave his life, ſhall loſe it; and whoſoever ſhall loſe his life for my ſake, ſhall finde it.</p>
+            </q>
+            <p>
+               <add>July .4<hi rend="sup">th</hi>.</add> Imprinted at <hi>London,</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165245:2"/>
+            <pb n="3" facs="tcp:165245:2"/>
+            <head>
+               <hi>OVERTON'S</hi> DEFYANCE OF THE ACT of PARDON.</head>
+            <opener>
+               <salute>Honoured Friends,</salute>
+            </opener>
+            <p>I Underſtand, that at the ſilence of my pen ſince my cloſe impriſonment many have wondered, &amp; ſome even amongſt you (though tacitely) been ready to draw my integrity into ſuſpicion, but could ſuch as wel un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old the riddle of my ſilence, as in other things, judge of what is viſible and <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vious to the eye, their thoughts ſure would be far from ſuch jealous ſur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſes of me, neither would they (I ſuppoſe) ſo much as tax me of impru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce or negligence in the matter, though my ſilence indeed had been as <gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ep as is ſuſpected, and let it be ſo taken for granted, and alſo taken in the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orſt ſence, I care not much how I am judged; yet I muſt needs confeſs, is no pleaſure unto me, to be misjudged, or condemned before my time, hen my deeds are apoſtate or contradictory to what I have begun in be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf of the publick, then is the time of my condemnation, and before that <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y patient endurance in bonds (one would think) were a guard ſufficient a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>inſt miſconceptions in that kind, eſpecially with my friends.</p>
+            <p>But knowing, that even the ſuſpicion of any one of us four; yea, though the unworthyeſt, <hi>My Selfe,</hi> is an arrow of ſo pearcing a kind, that it e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n woundeth through the ſides of that perſon<g ref="char:punc">▪</g> the righteous cauſe of the <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ople, which never more needed indulgence, watchfulneſs, and help <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en now, <hi>it</hi> being (by perfidious uſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pers and hypocrites, now clothed <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Angels of light with the radiant beames of Majeſty and Sainſhip, that no Engliſh mortal is able to peep ir to their glory and live) become like the man that travelled from Jeruſalem to Jerico, and fell among thiefs, ſtript of his raiment (an Agreement of the people, and it faithful Aſſerters) wounded and beaten, deſerted and left half (if not altogether) dead, ſpur<g ref="char:EOLhyphen"/>ned, trampled and trod under foot, and the Prieſt and the L<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vite, and
+<pb n="4" facs="tcp:165245:3"/>
+(which is moſt to my grief and confuſion of face) my very brethren the <hi>Church-men</hi> paſs by on the other ſide, yea, and which is worſe, are not a<g ref="char:EOLhyphen"/>ſhamed with their invenomed invectives, lyes, calumnies, and bitter perſe<g ref="char:EOLhyphen"/>cutions, (and yet all forfooth in the name of God, of Jeſus Chriſt, of Reli<g ref="char:EOLhyphen"/>ligion and the like) to ſtab and wound it afreſh; having forked ſtings like Serpents to ſting every hand that toucheth, ſwoln with venome like Toads to ſpit at every perſon that owneth, and like Vipers ready at all times to faſten on every man that ſhall dare to be an aſſerter thereof; that now none ſo perſecute as they, enough to affright me from Church ſhip, to renounce and abominate it for ever; did not I know its inſtitution to be holy and good, and the wayes of thoſe men no natural product or fruit of Church conſtitutions.</p>
+            <p>I tell you (my deareſt friends, and fellow aſſerters of the publick cauſe) knowing how circumſpect, tender &amp; careful we ought to be; now eſpecial<g ref="char:EOLhyphen"/>ly to ſhew our affections, our truth and fidelity to our perſecuted wounded, forſaken, and almoſt murthered cauſe, when none there is ſcarce that dare own it or indulge it in publike, and to approve our ſelves like the good Sa<g ref="char:EOLhyphen"/>maritan indeed to binde up its wounds, to poure in our wine and oyle, and have a care of it; I ſhall therefore (leaſt your jelouſie over me ſhould take too deep an impreſſion upon your ſpirits, and ſo work an in confidence in you, in any future aſſerters of our cauſe, to the extreme dammage and pre<g ref="char:EOLhyphen"/>judice of the cauſe it ſelf) unboſome the preſent diſpoſition of my heart and reſolutions concerning the ſame, although to give you the particular reaſons for the late obſcurity or ſilence of my pen, at preſent I judge not convenient.</p>
+            <p>My Friends, of this therefore be yee confident, that my ſilence hath not proceeded from any degeneration or inſtability in me to that <hi>Righteous Cauſe</hi> (ſumm'd up in our draught of an Agreement of the people, ſubſcribed, publiſhed and offered by us four as a peace offering, to the conſideration of the people of England, 1. <hi>May.</hi> 1649,) that Paper, (or rather the con<g ref="char:EOLhyphen"/>tents or premiſes thereof) is the price, glory and end of my endurance, nei<g ref="char:EOLhyphen"/>ther life, liberty on reparation, or any thing that man or earth affords is valuable with me in compariſon thereof, that is my <hi>all in all;</hi> I deſire nei<g ref="char:EOLhyphen"/>ther life liberty, or reparation (ſeeing God hath called me to the work) but as may ſtand in ſubordination to that Agreement; while I have life or breath it ſhall never want a true aſſerter to uphold and promote the ſame to the utmoſt of my power, let the hazard and danger to my ſelf be what it will.</p>
+            <p>Although I have ſat thus long in the ſhadow of ſilence, yet let not my friends ſuſpect me, nor mine enemies vaunt over me, for though my per<g ref="char:EOLhyphen"/>ſon is their captive, yet have I ſo much ſpirit and fidelity left, to ſcorn their
+<pb n="5" facs="tcp:165245:3"/>
+tyrannyes, and dare them to their teethes to do their worſt; let them finde Gallowes, Gybbets, Priſons, Halters, &amp;c. Ile finde carcaſs to encounter, till I have encountred out my life, I fear none of their <hi>Treaſon traps,</hi> I ſcorne and defy them; for that Agreement I will have, or elſe Ile dye at their feet; Ile have no accord or peace with them at all till they have yeel<g ref="char:EOLhyphen"/>ded that: whether at liberty or in priſon, it is all one to me.</p>
+            <p>It is neither my own life, liberty, nor reparation that I ſtand for, as the proper end of my Engagement; I have ſet my hand to the plow, and that paper hath proclaim'd it, and bears teſtimony thereof, and ſhall I look back for my own advantage, God forbid; rather let me die, then live the life of <hi>Den</hi> (that accurſed Engliſh Judas;) The bread of Apoſtacy, Lord, never let it enter into my lips; to drink the blood, and eat the fleſh of my Coun<g ref="char:EOLhyphen"/>tries Cauſe; yea, of the children that are yet unborn, as that Viper, that wretched Traytor hath done, or be clothed with the garments of ſuch ab<g ref="char:EOLhyphen"/>horred abhomination; farre, farre be it from me and mine, rather let us be cloathed in Rags, and let me linger out my dayes, fettered and mannacl'd in ſome of their noyſome murdering Dungeons to bear teſtimony againſt them, for that Righteous Agreeement: God hath given me the heart, and fild it with power and patience for the work; life, liberty and reparations, that golden ball and bait of Apoſtacy ſhall not ſatisfie me, it is not for ſuch flat<g ref="char:EOLhyphen"/>tering pictures, that I am at variance with them, although my condition might invite me to ſuch worldly acceptances; no, I firſt ſet my hand to the work out of integrity and ſimplicity of heart, without all ſelfe or by-ends, God is my record, and I truſt, he that began that good work in me, will bear me out in it, to the end; and that is my earneſt and hearty prayer.</p>
+            <p>Therefore, my friends, be not you fearfull or jealous of my integrity, I wiſh none of your heads may ake till I turn apoſtate, ſure I ſhall firſt turn into the duſt: and for the truth of this my profeſſed integrity, I referre you for proofe to my future actings, if they there with commenſurate, let me be juſtified, if not condemned, by the fruit let the tree be judged: other judgings I need not much vallew, for ſuch judgments ever betray an evill ſpirit in the Judgers.</p>
+            <p>But now my dear friends, you eſpecially, which have provoked me thus at this time, to unboſome the ſecret reſolves of my heart, (who perhaps by ſome, not duly weighing the occaſion and neceſſity, may be aſcribed to vain glory and arrogance) you I deſire, to rub up your wits, conſider and tell me, whether inſtead of thoſe jealous ſurmiſes of me, your time had not better been ſpent in conſidering ſome way wherein you might equally diſcharge your duties with us, that are ſo cloſe immured in the Tower; think you, that we are able to remove mountaines; we are but men, and no more but
+<pb n="6" facs="tcp:165245:4"/>
+four men: Imagine you, that there are no more hands required to the work, or that it is poſſible for us to doe all the drudgery, and perfect the ſame, while you ſtretch your ſelves upon your beds and take your eaſe, leaving all at fixes and ſevens, and the cauſe to ſink or; ſwim, to ſtand or fall, if we look not after to beare it up: My friends, the Cauſe is as much yours as ours, and your duties with ours are of equall extent; but how comes your practice ſo ſhort, ſo dull, and remiſſe; upon all occaſions you expect vigerous actings from us, while you look over your ſelves: I can<g ref="char:EOLhyphen"/>not ſee, but that a Priſon, the Gallows, or halter would become the beſt of you as well as any of us, to vindicate or aſſert that Agreement of the people.</p>
+            <p>But you ſpit in our mouthes, and clap us on the backs like Dogs, and cry, ha looe a-looe, and turn us looſe upon all the Bulls, Bears, Wolves, Lyons and Dragons of the times, which are thouſands to one, (I confeſſe I love the ſport) while you ſhrink, and skulk into you holes: Come out for ſhame, come out, and catch me the great Bull of Baſon by the NOSE, and make him roar.</p>
+            <p>Whu—all my brave Levelling Bull dogs and Bear Dogs, where are you? Siz—,ha—looe—ha—looe—all fly at him at once: There at him, at him; O brave Jockey with the Sea-green ribbond in his eare! that Dog and his fellow for fourty ſhillings a Dog: Hold, hold, he hath caught him by the Gennitals, ſtave him off, give the Bull fair play.—A pox—they have burnt my Dogs mouth.</p>
+            <p>Ha—looe—ha—looe—all at him againe, and bate him out of <hi>England</hi> into <hi>Ireland,</hi> and there the brave Royall Bandogs will tug him and tear him to ſome purpoſe: But ſtay, firſt let me clap this nettle under his Tayle, and tell him, wee'l never leave biting and bating, if all the luſty levelling Maſties in <hi>England</hi> will do it, till we have worryed, or broke the Buls neck, or elſe gain'd our Agreement.</p>
+            <p>
+               <hi>Martin</hi> can ſing no other tune ſince he was cag<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up in the Tower, but <hi>The Agreement of the People, The Agreement of the People;</hi> and is reſolv'd to ſing no other note but that: all his airy Canto's and ſweet roundelayes muſt all be to the good Engliſh tune, of <hi>The Agreement of the people.</hi>
+            </p>
+            <p>But (my friends) to return. Be not yee luld aſleep with none of their blandiſhments: They now talke much indeed of Reparatious for Colonel <hi>Martins</hi> great loſſes, of our Liberties, of Mr <hi>Lilburns</hi> and Mr <hi>Princes</hi> mo<g ref="char:EOLhyphen"/>ney, and of ſuch like rattles and toyes, but you may remember their old tricks and deluſions and underſtand the myſterie of thoſe guilded motions; when at the generall riſings in <hi>Eſſex, Kent,</hi> invaſion of the <hi>Scots</hi> &amp;c. they wanted help, O how honeſt would they be to the juſt intereſt of the peopl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! when the Houſe was to bee broken in pieces, then no way but we muſt have an
+<pb n="7" facs="tcp:165245:4"/>
+               <hi>Agreement of the People</hi> 
+               <note n="*" place="margin">Se<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Col. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lega<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Fund<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> men<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Libe<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pag. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 30. 3<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 32, <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 34. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 36, &amp; <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>; when the King was to come to the Block, and a bloody High Court of injuſtice, and a Councell of State erected, then what a white Boy was Colonel <hi>Martin?</hi> A Regiment of horſe was voted for him by the Houſe, to keep the pertty Baby at play with that fine <hi>tan-ta-ra<g ref="char:EOLhyphen"/>rarah tan tarra,</hi> while their work was over: when our friends were up about <hi>Burford,</hi> then a Committee muſt be appointed to conſider of Elect<g ref="char:EOLhyphen"/>ons for a New Repreſentative in all haſte. And now think you, what is at the bottom of their new ſmiling Aſpects towards us? <hi>quicquid id eſt, ti<g ref="char:EOLhyphen"/>meo Danaos &amp; Dona terrentes:</hi> Ile truſt them no further then I can <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng their great Bull of Baſon by the taile; their ſmiles are but on purpoſe to ſlay. The Prince, the <hi>Scots</hi> and <hi>Iriſh</hi> have prepared them more fiſh then they are well able to fry, that they are ſo forward to fetch a col<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from our Altar to augment their fire.</p>
+            <p>Therefore while it is day conſider what you have to do, ſtrike now if you mean to ſpeed, up with your Agreement of the People again, and be<g ref="char:EOLhyphen"/>leeve nothing that they ſay or do, till you be real poſſeſſors thereof, and a new free Repreſentative in being: and then let them do their worſt, wee'l make them honeſt in deſpight of their teeths, and till then, and not before can I reckon of my reall deliverance from theſe bonds. Come, who ſtrikes the firſt ſtroke? what ſays old <hi>Mother Harry?</hi> reach him there an Agree<g ref="char:EOLhyphen"/>ment of the People, it will become him better then his reparations in con<g ref="char:EOLhyphen"/>ſideration. And where's my little <hi>Gray</hi> of <hi>Grooby,</hi> what's he in a Mouſe<g ref="char:EOLhyphen"/>hole? and my old fellow Rebell <hi>Iohnee Wildman</hi> Mount <hi>Atlas</hi> ſtand on tip<g ref="char:EOLhyphen"/>toes where art thee? and behold a mighty ſtone fell from the skies into the bottome of the Sea, and gave a mighty plump, and great was the fall of that ſtone, and ſo farewell <hi>Iohnee Wildman.</hi> VVhat my Sea-green gallants, where are you all, what neither hot nor cold, neither fiſh nor fleſh nor good Red-herring? Is your ſpirits ſunk into your heels, or your wits in<g ref="char:EOLhyphen"/>to the napes of your necks? rouſe up for ſhame and ſhew your ſelves in your kind, or elſe out amongſt you flyes the little whisking miſchievous bird, Primate and Metropolitan of all the Swallows and Martins in England; and then look to your ſelves.</p>
+            <p>But now to make up the jeſt, an Act of Grace forſooth is caſt into the forge, under which they are pleaſed to report, that the four arch-Level<g ref="char:EOLhyphen"/>ling Rebels in the Tower ſhall be compriſed: Smile O Heavens, and clap thy hands O earth, ha, ha, ha. And muſt all our ſins and treſpaſſes be for<g ref="char:EOLhyphen"/>given us now? but firſt what is our treſpaſſe? The Agreement of the People! Sure there is great need of forgiveneſſe of ſo high an offence, if it be conſidered, who they are that therewith can be offended; indeed vice is a vertue, and only vertue a vice with hells Cabinet Juncto, and ſo comes
+<pb n="8" facs="tcp:165245:5"/>
+to paſſe the trick of forgiveneſſe for us: but tell them (my friends) that lit<g ref="char:EOLhyphen"/>tle brisk Levilling <hi>Dick</hi> in the Tower hath not his integrity yet (as merry as is his worſhip) at ſo low an eſteem, to deſire his Liberty upon ſo diſho<g ref="char:EOLhyphen"/>norable and baſe an accompt: what have I ſet my hand to the glorious cauſe of the free people of England, and engaged my carcaſſe in the con<g ref="char:EOLhyphen"/>troverſie, and ſhall I now hang down mine head like a Bulruſh and yeeld up my ſelf for a little dirty liberty, to be turn'd out as an <hi>Evil doer</hi> to the everlaſting diſhonour of my cauſe: no, Ile dye firſt.</p>
+            <p>Therefore know all men by theſe preſents, that I <hi>Richard Overton,</hi> now cloſe priſoner in the Tower of <hi>London,</hi> out of a tender regard that I have to the Libertyes of my Country, and credit of that honorable cauſe, do here<g ref="char:EOLhyphen"/>by defy, renounce, abhor, deteſt and ſcorne that Act of Pardon as to my Liberty thereby, and do rather chuſe continuance and encreaſe of Bonds, then condtionall ſubmiſſion or aſſent thereunto in the leaſt: And hitherto as I have ſcorned any clandeſtine or open complyance with them for any ſelfiſh end whatſoever, ſo let this (my friends) be a witneſſe betwixt you and me, and to the whole world, that I am ſo far from ſubmiſſion to their cor<g ref="char:EOLhyphen"/>rupt and wicked intereſt, that I will firſt eat the fleſh off from my bones; firſt rot and periſh in Goal, before I will ſo far bow to them, as in the leaſt to woo them or any of their creatures, either directly or indirectly in perſon or by proxie for my liberty: my cauſe is not ſo bad, but with patience I can ſuffer till I be juſtly delivered without blemiſh or ſpeck of infamy to the ſame; the honour of it, I honour above my life or liberty.</p>
+            <p>Now were I already upon the diſhonourable terms of that act thruſt out, it were a thouſand to one, I ſhould not keep a month out of Priſon: To what end therefore ſhould I trouble my head about my liberty, till I can be at peace, and reſt when I am abroad, for without the Agreement or ſufficient ſecurity for the ſame, I can have none. I am more at content where I am, then to be with you upon unequal terms.</p>
+            <p>Thus my truly dear, and worthy friends, I hope as concerning my integrity and con<g ref="char:EOLhyphen"/>ſtant faithfulneſs to what I have undertaken in behalf of the publick; I have given you clear and ful ſatisfaction, to the utter removal I ſuppoſe of thoſe late jealous incoms a<g ref="char:EOLhyphen"/>amongſt you: And ſo with my intire love and reſpects unto you all, with inward joy, comfort and gladneſs of heart in bonds for my Countrys ſake, rejoycing, I reſt.</p>
+            <closer>
+               <signed>Yours, and every Engliſh mans <hi>for the Agreement of the people</hi> faithful to the death. <hi>RICHARD OVERTON.</hi>
+               </signed>
+               <dateline>From my cloſe impriſonment in the Tower of <hi>London,</hi> 
+                  <date>July 2. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
